@@ -11,3 +11,7 @@ Inspired from [SAO](https://github.com/saojs/sao) by egoist.
 # Usage
 
 > deno-repo-download username/repo [dir]
+
+# Templates
+
+> deno-repo-download hashrock/sift-packup-template myapp
