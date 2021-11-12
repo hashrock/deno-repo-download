@@ -6,12 +6,18 @@ Inspired from [SAO](https://github.com/saojs/sao) by egoist.
 
 # Install
 
-> deno install --allow-net=api.github.com,github.com,codeload.github.com --allow-write --allow-read https://denopkg.com/hashrock/deno-repo-download@1.0.0/main.ts
+```shell
+deno install --allow-net=api.github.com,github.com,codeload.github.com --allow-write --allow-read https://denopkg.com/hashrock/deno-repo-download@1.0.0/main.ts
+```
 
 # Usage
 
-> deno-repo-download username/repo [dir]
+```shell
+deno-repo-download username/repo [dir]
+```
 
-# Templates
+# Using sift template
 
-> deno-repo-download hashrock/sift-packup-template myapp
+```shell
+deno-repo-download hashrock/sift-packup-template myapp
+```
